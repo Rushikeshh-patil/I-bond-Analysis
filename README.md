@@ -72,3 +72,14 @@ MYBOND002,2021-11-01,0.0,4.28,5000.00,5610.00
 MYBOND003,2023-02-01,0.4,4.35,10000.00,10552.00
 MYBOND004,2023-12-01,1.3,5.27,2500.00,2532.75
 EARLY_BOND,2024-03-01,1.3,5.27,1000.00,1000.00
+
+
+Disclaimers
+This tool provides estimations based on the data and parameters you provide.
+The early withdrawal penalty calculation is an estimate based on the current composite rate and value provided in the CSV; the actual penalty applied by TreasuryDirect upon redemption may differ slightly. Verify values on TreasuryDirect.
+The analysis assumes the calculated "Net Proceeds" are fully reinvested into a new I Bond.
+It only considers federal income tax. I Bond interest is typically exempt from state and local income taxes, which is not factored into this calculation.
+It does not account for the annual $10,000 purchase limit per SSN for electronic I Bonds.
+It does not compare I Bond returns against other potential investments.
+Future inflation rates, which affect the variable component of the I Bond composite rate, are unknown and not predicted here. The analysis focuses primarily on the fixed rate difference.
+This is not financial advice. Consult with a qualified financial advisor before making any investment decisions based on this tool's output.
